@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                      木兰宽松许可证, 第2版
 
    木兰宽松许可证， 第2版 
@@ -185,6 +186,8 @@ freely, subject to the following restrictions:
 3. This notice may not be removed or altered from any source distribution.
 >>>>>>> 0e4d09b9017637e2638d8768c2a6d225f3a0c299
 =======
+=======
+>>>>>>> a8ef7e604f73fc868dbcab9d3faa77536e2b569f
 Eclipse Public License - v 1.0
 
 THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC
@@ -388,6 +391,7 @@ intellectual property laws of the United States of America. No party to this
 Agreement will bring a legal action under this Agreement more than one year
 after the cause of action arose. Each party waives its rights to a jury trial in
 any resulting litigation.
+<<<<<<< HEAD
 >>>>>>> 2ae9bd108144bd3c546d6efc7a370958147a743d
 =======
 European Union Public Licence
@@ -702,3 +706,5 @@ Appendix
 - Eclipse Public License v. 1.0
 - Cecill v. 2.0
 >>>>>>> 88fb7a0f6aabdc09b3dcf40bc4300cd0fb1c2f12
+=======
+>>>>>>> a8ef7e604f73fc868dbcab9d3faa77536e2b569f
